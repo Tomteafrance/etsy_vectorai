@@ -18,11 +18,11 @@ setuptools.setup(
     python_requires='>=3.10',
     keywords=["Python", "Faker"],
     install_requires = [
-    'openai',
-    'requests',
-    'cairosvg',
-    'opencv-python',
-    'numpy',
-    'Pillow'
+        'openai',
+        'requests',
+        'cairosvg',
+        'opencv-python',
+        'numpy',
+        'Pillow'
     ],
 )
